@@ -80,10 +80,6 @@ href='https://github.com/Veran350/VERAN-TECH-BOT/fork' target="_blank"><img alt=
 JOIN VERAN-TECH-HUB WHAtSAPP GROUP FOR MORE UPDATES
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/Ed3aK6mymYd2G1HFom0OyZ))
  
-## Community and Support
-
-FOLLOW VERAN-TECH-HUB TELEGRAM CHANNEL FOR MORE UPDATES
-[![JOIN TELEGRAM CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://t.me/VERAN-TECH-BOT))
 
 
 ### Credits to:
