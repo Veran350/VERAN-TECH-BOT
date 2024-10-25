@@ -16,10 +16,10 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : QUEEN_TENI_CLAIRE-V1
+//  * @project_name : VERAN-TECH-BOT
 //  * @author : salmanytofficial
 //  * @youtube : https://www.youtube.com/@s4salmanyt
-//  * @description : Queen_Teni_Claire-V1,A Multi-functional whatsapp user bot.
+//  * @description : VERAN-TECH-BOT,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by DGXeon
@@ -31,7 +31,7 @@
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
-//   * © 2024 QUEEN_TENI_CLAIRE-V1.
+//   * © 2024 VERAN-TECH-BOT.
 // ⛥┌┤
 // */
 
@@ -41,10 +41,10 @@ const chalk = require('chalk');
 //owmner v card
 global.ytname = "V.E.R.A.N" //ur yt chanel name
 global.socialm = "GitHub: Veran350" //ur github or insta name
-global.location = "lagos, abuja, ogun state" //ur location
+global.location = "akure, abuja, ondostate" //ur location
 
 //new
-global.botname = 'QUEEN_TENI_CLAIRE-V1' //ur bot name
+global.botname = 'VERAN-TECH-BOT' //ur bot name
 global.ownernumber = ['2347082664317'] //ur owner number, dont add more than one
 global.ownername = 'VERAN' //ur owner name
 global.websitex = "https://github.com/Veran350"
@@ -52,7 +52,7 @@ global.wagc = "https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s"
 global.themeemoji = '⛩'
 global.wm = "Veran Bot Inc."
 global.botscript = 'https://github.com/Veran350' //script link
-global.packname = "QUEEN_TENI_CLAIRE-V1"
+global.packname = "VERAN-TECH-BOT"
 global.author = "MΛDΣ BY VERAN"
 global.creator = "https://wa.me/+2347082664317"
 global.xprefix = '.'
