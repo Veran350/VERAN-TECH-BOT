@@ -91,9 +91,9 @@ JOIN VERAN-TECH-HUB WHAtSAPP GROUP FOR MORE UPDATES
   </div>
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Veran350.png?size=150)](https://github.com/Veran350) |
 |----|
-| [  Lord No Name](https://github.com/Anime-King01) |
+| [  VERAN-TECH-HUB](https://github.com/Anime-King01) |
 |  Co-Developer |
 
   </div>
@@ -102,10 +102,4 @@ JOIN VERAN-TECH-HUB WHAtSAPP GROUP FOR MORE UPDATES
 
 <h2 align="center">  Reminder
 </h2>
-
-### Credits to:
-`much thanks to
-- [`TOXXIC Md`](https://github.com/Toxic1239) For assisting in bot development and case
-- [`Dare-1-0`](https://github.com/Dare-1-0) for assisting in bot development 
-
 
