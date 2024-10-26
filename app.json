@@ -1,7 +1,7 @@
 {
 	"name": "VERAN-TECH-BOT",
 	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/Veran350",
+	"repository": "https://github.com/Veran350/VERAN-TECH-BOT",
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": ["multi-device"]
 }
