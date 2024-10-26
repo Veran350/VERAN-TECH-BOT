@@ -83,17 +83,17 @@ JOIN VERAN-TECH-HUB WHAtSAPP GROUP FOR MORE UPDATES
 ## 🎯 Authors 🎯
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Toxic1239.png?size=150)](https://github.com/Toxic1239) |
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Veran350.png?size=150)](https://github.com/Veran350) |
 |----|
-| [  TOXIC 1239](https://github.com/Toxic1239) |
+| [  VERAN-TECH-HUB](https://github.com/Veran350) |
 |  Developer |
 
   </div>
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Veran350.png?size=150)](https://github.com/Veran350) |
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Toxic1239.png?size=150)](https://github.com/Toxic1239) |
 |----|
-| [  VERAN-TECH-HUB](https://github.com/Anime-King01) |
+| [  TOXIC 1239](https://github.com/Toxic1239) |
 |  Co-Developer |
 
   </div>
