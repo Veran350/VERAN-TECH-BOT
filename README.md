@@ -77,8 +77,8 @@ href='https://github.com/Veran350/VERAN-TECH-BOT/fork' target="_blank"><img alt=
 
 ## Our Channel
 
-FOLLOW VERAN-TECH-HUB(VTH) WHAtSAPP CHANNEL FOR MORE UPDATES
-[![FOLLOW WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-follow-whatsapp.png)](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s)
+FOLLOW VERAN-TECH-HUB(VTH) WHATSAPP CHANNEL FOR MORE UPDATES
+[![FOLLOW WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s)
  
 **DEVELOPERS**
 
