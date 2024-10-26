@@ -41,7 +41,7 @@ const chalk = require('chalk');
 //owmner v card
 global.ytname = "V.E.R.A.N" //ur yt chanel name
 global.socialm = "GitHub: Veran350" //ur github or insta name
-global.location = "akure, abuja, ondostate" //ur location
+global.location = "akure, ondostate, nigeria" //ur location
 
 //new
 global.botname = 'VERAN-TECH-BOT' //ur bot name
@@ -51,7 +51,7 @@ global.websitex = "https://github.com/Veran350"
 global.wagc = "https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s"
 global.themeemoji = '⛩'
 global.wm = "Veran Bot Inc."
-global.botscript = 'https://github.com/Veran350' //script link
+global.botscript = 'https://github.com/Veran350/VERAN-TECH-BOT' //script link
 global.packname = "VERAN-TECH-BOT"
 global.author = "MΛDΣ BY VERAN"
 global.creator = "https://wa.me/+2347082664317"
