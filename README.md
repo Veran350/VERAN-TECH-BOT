@@ -88,7 +88,7 @@ JOIN VERAN-TECH-HUB WHAtSAPP GROUP FOR MORE UPDATES
     <td>TOXIC 1239</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Veran350"><img src="https://avatars.githubusercontent.com/u/142972494?v=4" width="180"</td>
+    <td><a href="https://github.com/Veran350"><img src="https://i.imgur.com/o2hQQVn.jpeg" width="180"</td>
     <td><a href="https://github.com/Toxic1239"><img src="https://telegra.ph/file/7d1d362a15f946d427db1.jpg" width="180"</td>
   </tr>
 </table>
