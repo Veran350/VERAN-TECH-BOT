@@ -75,10 +75,10 @@ href='https://github.com/Veran350/VERAN-TECH-BOT/fork' target="_blank"><img alt=
 - *Use VERAN-TECH-BOT at your own risk by keeping this warning in mind.*
   
 
-## Community and Support
+## Our Channel
 
 FOLLOW VERAN-TECH-HUB(VTH) WHAtSAPP CHANNEL FOR MORE UPDATES
-[![JOIN WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s)
+[![FOLLOW WHATSAPP CHANNEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VajIDgjDZ4LVnxfB1Z2s)
  
 **DEVELOPERS**
 
