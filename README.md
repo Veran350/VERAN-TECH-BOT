@@ -18,7 +18,7 @@
 </div>
 
 <h2 align="center"> ⚠️ NOTE  </h2>
-## VERAN-TECH-BOT SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! DON'T BOTHER CLONING ALL FILES ARE WELL ENCRYPTED SO GOOD LUCK 💀.
+## VERAN-TECH-BOT SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! DON'T BOTHER CLONING, ALL FILES ARE WELL ENCRYPTED SO GOOD LUCK TRYING TO💀.
 
 ### Please Read !
 VERAN-TECH-BOT, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before.VERAN-TECH-BOT bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖.We are not responsible for any problems caused by your use of this
